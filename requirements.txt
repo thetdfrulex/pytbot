@@ -1,0 +1,2 @@
+user python-telegram-bot==13.7
+nest-asyncio telegram
